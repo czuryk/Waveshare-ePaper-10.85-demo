@@ -9,7 +9,7 @@ In my implementation, I use a Raspberry Pi Zero 2W. The large display allows you
 
 One of the main advantages of this display, and the reason it’s ideal for a dashboard - even though it’s only black and white - is its support for partial refresh. This allows you to update specific elements on the screen without having to redraw the entire display. Please note that most color displays do not support partial updates and cannot be used as dashboards requiring frequent screen refreshes.
 
-This sample code also includes a patched library that resolves an issue with the Waveshare library's partial refresh feature. Both displays now operate correctly in partial refresh mode as a single unit.
+This sample code also includes a patched library that resolves an issue with the Waveshare library's partial refresh feature. Both displays now operate correctly in partial refresh mode as a single unit. The function display_Partial was replaced on rewrited one in file lib/waveshare_epd/epd10in85.py.
 
 <img width="1200" height="896" alt="cover1" src="https://github.com/user-attachments/assets/aa613610-1c12-4f89-b783-3dcc70e41608" />
 <img width="1200" height="896" alt="cover2" src="https://github.com/user-attachments/assets/e87866a5-9507-4a80-bc16-856949eca8f6" />
