@@ -14,4 +14,9 @@ This sample code also includes a patched library that resolves an issue with the
 <img width="1200" height="896" alt="cover1" src="https://github.com/user-attachments/assets/aa613610-1c12-4f89-b783-3dcc70e41608" />
 <img width="1200" height="896" alt="cover2" src="https://github.com/user-attachments/assets/e87866a5-9507-4a80-bc16-856949eca8f6" />
 
+## You can download the case stl files here.
 You can find the case 3D print files [here](https://makerworld.com/en/models/2322517-epaper-dashboard-10-85).
+
+---
+
+## You can find the full dashboard script with all major features [here](https://github.com/czuryk/Waveshare-ePaper-10.85-dashboard).
